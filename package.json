@@ -19,5 +19,8 @@
     "url": "https://github.com/GMNetto/TutorMatch/issues"
   },
   "homepage": "https://github.com/GMNetto/TutorMatch#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
